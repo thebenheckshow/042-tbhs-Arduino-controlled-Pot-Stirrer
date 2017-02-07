@@ -1,0 +1,22 @@
+All graphics assume a 1000 x 570 window / app size in landscape mode.
+
+
+
+
+Description of files:
+
+layout_reference.jpg: Shows the positioning of the graphical elements, Sync button, arm center and text position.
+
+background_0-5.png: The lowest layer background graphic. Randomly pick 0-5 to change the soup each time it loads.
+
+background_simple.png: Empty pot background.
+
+arm.png: The middle layer graphic. Placing arm at 0,0 positions it over the pot. Rotating it with 285 x 285 as the center point will make it rotate around the pot.
+
+foreground.png: The top layer graphic. Place over the arm graphic.
+
+
+
+The temperature display should be the top level graphic and appear on top of foreground.
+
+The effective range of the arm is 325 degrees of rotation... 360 - the 35 degrees consumed by the arm.

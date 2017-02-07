@@ -1,0 +1,10 @@
+
+
+Android sends:
+
+255, position (0-255)
+
+Device returns
+
+255, temperature
+

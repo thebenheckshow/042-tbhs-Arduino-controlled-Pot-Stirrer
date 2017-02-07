@@ -1,0 +1,67 @@
+# Gear template generator 3.0.2
+# Licensed to: Benjamin Heckendorn
+#              benjamin.heckendorn@gmail.com
+
+# Gear type perameters:
+  ContactAngle_deg=20
+  ToothSpacing=0.3926990816987243635923151542
+  ToothPinwheel=False
+  ToothInvolute=True
+  ToothProtractor=False
+  PinSize=0.2945243112740432726942363656
+  Slop=0
+
+# Gear1:
+  ShowGear1=True
+  ToothCount1=20
+  ShowSpokes1=False
+  SpokeCount1=5
+  Spur1=True
+  Rack1=False
+  Ring1=False
+  ShaftHoleDia1=0.25
+  Addendum1=0.25
+
+# Gear2:
+  ShowGear2=True
+  ToothCount2=10
+  ShowSpokes2=False
+  SpokeCount2=5
+  Spur2=True
+  Rack2=False
+  Ring2=False
+  ShaftHoleDia2=0.25
+  Addendum2=0.25
+
+# Chain mode parameters:
+  BlockLength=1.2
+  BlockWidth=0.8
+  BlockChamfer=0.2
+  LinkLength=2
+  LinkWidth=1
+  LinkChamfer=0.2
+  ShowChainLinks=True
+  ShowChainBlocks=True
+  ShowSprocket=True
+  RoundChamfers=False
+  RollerChain=False
+  SprocketTeeth=5
+  ChainPinSize=0.1
+
+# Display options:
+  ScreenViewWidth=7
+  Rotation=0
+  ShowPitchDia=False
+  ShowCenter=False
+  ShowLineOfContact=False
+  ShowAnimated=False
+  DrawThick=False
+
+# Grid:
+  ShowGrid=False
+  GridSpacing=1
+  GridDiagonals=False
+
+  Units=Inch
+
+  ActiveTab=Shaft
